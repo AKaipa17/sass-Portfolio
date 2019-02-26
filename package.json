@@ -1,0 +1,14 @@
+{
+  "name": "portfolions",
+  "version": "1.0.0",
+  "description": "Portfolio Amir",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Amir Kaipiyev",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
